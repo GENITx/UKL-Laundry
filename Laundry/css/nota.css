@@ -1,0 +1,96 @@
+.right{
+    float: right;
+}
+
+.jeda{
+    margin-top: 30px;
+}
+
+.main_content {
+    width: 100%;
+    margin-left: 200px;
+}
+
+.main_content .header {
+    padding: 20px;
+    background: rgb(230, 218, 218);
+    color: red;
+}
+
+.main_content .info {
+    margin: 20px;
+    color: black;
+    line-height: 25px;
+}
+
+.main_content .info h1{
+    text-align: center;
+    color: black;
+    line-height: 25px;
+}
+
+.nota {
+    margin-top: 20px;
+    background-color: rgb(230, 218, 218);
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.2);
+    padding: 20px;
+    border-radius: 20px;
+    width: 60%;
+}
+
+.nota .nota-body .nota-title {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.nota .nota-body .nota-text {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+table, th, td {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+  
+  table {
+    width: 100%;
+    margin: auto;
+}
+  
+  th, td {
+    height: 50px;
+}
+
+ol, li {
+    margin: 20px 0 0 -20px;
+    list-style: none;
+    text-align: center;
+}
+
+select {
+    font-size: 15px;
+    padding: 5px 7px;
+}
+
+button {
+    padding: 5px 10px;
+    border-radius: 50%;
+    background-color: red;
+    border: none;
+    font-size: 15px;
+}
+  
+  button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+/*.main_content a {
+  float: right;
+  margin-top: -400px;
+  margin-right: 965px;
+}*/
+

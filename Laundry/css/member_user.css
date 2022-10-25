@@ -1,0 +1,52 @@
+.main_content {
+    width: 100%;
+    margin-left: 200px;
+}
+
+.main_content .header {
+    padding: 20px;
+    background: #fff;
+    color: red;
+    border-bottom: 1px solid #e0e4e8;
+}
+
+.main_content .info {
+    margin: 20px;
+    color: black;
+    line-height: 25px;
+}
+
+.main_content .info div {
+    margin-bottom: 20px;
+}
+
+table,
+td,
+th {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table {
+    width: 85%;
+}
+
+td,
+th {
+    height: 50px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+}

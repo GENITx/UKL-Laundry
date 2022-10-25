@@ -1,0 +1,38 @@
+.main_content {
+    width: 100%;
+    margin-left: 200px;
+}
+
+.main_content .header {
+    padding: 20px;
+    background: #fff;
+    color: #717171;
+    border-bottom: 1px solid #e0e4e8;
+}
+
+.main_content .info {
+    font-size: 20px;
+    margin: 20px;
+    color: #717171;
+    line-height: 25px;
+}
+
+.main_content .info input,
+select {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.main_content .info .submit {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #0f24df;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+}
+
+.main_content .info .submit:hover {
+    background-color: #1fae51;
+    color: #fff;
+}

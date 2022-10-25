@@ -1,0 +1,87 @@
+.main_content {
+    width: 100%;
+    margin-left: 200px;
+}
+
+.main_content .header {
+    padding: 20px;
+    background: #fff;
+    color: red;
+    border-bottom: 1px solid #e0e4e8;
+}
+
+.main_content .info {
+    margin: 20px;
+    color: black;
+    line-height: 25px;
+}
+
+.card {
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 3px 2px 5px rgba(0,0,0,0.2);
+    padding: 20px;
+    border-radius: 20px;
+    width: 30%;
+}
+
+.card .card-body .card-title {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.card .card-body .card-text {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+table,
+td,
+th {
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+table {
+    width: 55%;
+    float: right;
+    /* margin-top: -500px; */
+    margin-right: 180px;
+    background-color: #fff;
+}
+
+td,
+th {
+    height: 50px;
+}
+
+select {
+    font-size: 15px;
+    padding: 5px 7px;
+}
+
+.button {
+    padding: 10px 20px;
+    /* float: right;
+  margin-top: -400px; */
+    margin-top: 5px;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    align-items: center;
+    text-align: center;
+}
+
+.button:hover {
+    background-color: black;
+    color: #fff;
+}
+
+/*.main_content a {
+  float: right;
+  margin-top: -400px;
+  margin-right: 965px;
+}*/
